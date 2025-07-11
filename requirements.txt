@@ -1,4 +1,4 @@
-deepeval==3.1.7
+deepeval==3.2.6
 dotenv==0.9.9
 jupyterlab==4.4.3
 langchain==0.3.26
